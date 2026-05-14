@@ -1,0 +1,11 @@
+C:\Users\analu\OneDrive\Escritorio\Practica 04\crud_6439059\crud_6439059\bin\Debug\crud_6439059.exe.config
+C:\Users\analu\OneDrive\Escritorio\Practica 04\crud_6439059\crud_6439059\bin\Debug\crud_6439059.exe
+C:\Users\analu\OneDrive\Escritorio\Practica 04\crud_6439059\crud_6439059\bin\Debug\crud_6439059.pdb
+C:\Users\analu\OneDrive\Escritorio\Practica 04\crud_6439059\crud_6439059\obj\Debug\crud_6439059.csproj.AssemblyReference.cache
+C:\Users\analu\OneDrive\Escritorio\Practica 04\crud_6439059\crud_6439059\obj\Debug\crud_6439059.Properties.Resources.resources
+C:\Users\analu\OneDrive\Escritorio\Practica 04\crud_6439059\crud_6439059\obj\Debug\crud_6439059.csproj.GenerateResource.cache
+C:\Users\analu\OneDrive\Escritorio\Practica 04\crud_6439059\crud_6439059\obj\Debug\crud_6439059.csproj.CoreCompileInputs.cache
+C:\Users\analu\OneDrive\Escritorio\Practica 04\crud_6439059\crud_6439059\obj\Debug\crud_6439059.exe
+C:\Users\analu\OneDrive\Escritorio\Practica 04\crud_6439059\crud_6439059\obj\Debug\crud_6439059.pdb
+C:\Users\analu\OneDrive\Escritorio\Practica 04\crud_6439059\crud_6439059\obj\Debug\crud_6439059.frmAlumno.resources
+C:\Users\analu\OneDrive\Escritorio\Practica 04\crud_6439059\crud_6439059\obj\Debug\crud_6439059.frmMateria.resources

@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|c:\\users\\analu\\onedrive\\escritorio\\practica 04\\crud_6439059\\crud_6439059\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|solutionrelative:crud_6439059\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|c:\\users\\analu\\onedrive\\escritorio\\practica 04\\crud_6439059\\crud_6439059\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|solutionrelative:crud_6439059\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|c:\\users\\analu\\onedrive\\escritorio\\practica 04\\crud_6439059\\crud_6439059\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|solutionrelative:crud_6439059\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|c:\\users\\analu\\onedrive\\escritorio\\practica 04\\crud_6439059\\crud_6439059\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|solutionrelative:crud_6439059\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|c:\\users\\analu\\onedrive\\escritorio\\practica 04\\crud_6439059\\crud_6439059\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|solutionrelative:crud_6439059\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|c:\\users\\analu\\onedrive\\escritorio\\practica 04\\crud_6439059\\crud_6439059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5074D59C-E4E7-4BDA-8BBB-ADD4563D9352}|crud_6439059\\crud_6439059.csproj|solutionrelative:crud_6439059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 151,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\Form2.cs",
+              "RelativeDocumentMoniker": "crud_6439059\\Form2.cs",
+              "ToolTip": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\Form2.cs",
+              "RelativeToolTip": "crud_6439059\\Form2.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAmwH4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T21:22:57.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\Form1.cs",
+              "RelativeDocumentMoniker": "crud_6439059\\Form1.cs",
+              "ToolTip": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\Form1.cs",
+              "RelativeToolTip": "crud_6439059\\Form1.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAmwI8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T18:03:58.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\Program.cs",
+              "RelativeDocumentMoniker": "crud_6439059\\Program.cs",
+              "ToolTip": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\Program.cs",
+              "RelativeToolTip": "crud_6439059\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:05:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\conexion.cs",
+              "RelativeDocumentMoniker": "crud_6439059\\conexion.cs",
+              "ToolTip": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\conexion.cs",
+              "RelativeToolTip": "crud_6439059\\conexion.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:58:30.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\Form2.cs",
+              "RelativeDocumentMoniker": "crud_6439059\\Form2.cs",
+              "ToolTip": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "crud_6439059\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:55:17.563Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\Form1.cs",
+              "RelativeDocumentMoniker": "crud_6439059\\Form1.cs",
+              "ToolTip": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\crud_6439059\\crud_6439059\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "crud_6439059\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T14:19:03.056Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
