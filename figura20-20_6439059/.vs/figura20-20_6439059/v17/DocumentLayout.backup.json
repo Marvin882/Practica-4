@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\figura20-20_6439059\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42885D88-16C4-4D25-8C47-9897FC52E4C6}|figura20-20_6439059\\figura20-20_6439059.csproj|c:\\users\\analu\\onedrive\\escritorio\\practica 04\\figura20-20_6439059\\figura20-20_6439059\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{42885D88-16C4-4D25-8C47-9897FC52E4C6}|figura20-20_6439059\\figura20-20_6439059.csproj|solutionrelative:figura20-20_6439059\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42885D88-16C4-4D25-8C47-9897FC52E4C6}|figura20-20_6439059\\figura20-20_6439059.csproj|c:\\users\\analu\\onedrive\\escritorio\\practica 04\\figura20-20_6439059\\figura20-20_6439059\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42885D88-16C4-4D25-8C47-9897FC52E4C6}|figura20-20_6439059\\figura20-20_6439059.csproj|solutionrelative:figura20-20_6439059\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42885D88-16C4-4D25-8C47-9897FC52E4C6}|figura20-20_6439059\\figura20-20_6439059.csproj|c:\\users\\analu\\onedrive\\escritorio\\practica 04\\figura20-20_6439059\\figura20-20_6439059\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42885D88-16C4-4D25-8C47-9897FC52E4C6}|figura20-20_6439059\\figura20-20_6439059.csproj|solutionrelative:figura20-20_6439059\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42885D88-16C4-4D25-8C47-9897FC52E4C6}|figura20-20_6439059\\figura20-20_6439059.csproj|c:\\users\\analu\\onedrive\\escritorio\\practica 04\\figura20-20_6439059\\figura20-20_6439059\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{42885D88-16C4-4D25-8C47-9897FC52E4C6}|figura20-20_6439059\\figura20-20_6439059.csproj|solutionrelative:figura20-20_6439059\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\figura20-20_6439059\\figura20-20_6439059\\WebForm1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "figura20-20_6439059\\WebForm1.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\figura20-20_6439059\\figura20-20_6439059\\WebForm1.aspx.designer.cs",
+              "RelativeToolTip": "figura20-20_6439059\\WebForm1.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:18:16.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\figura20-20_6439059\\figura20-20_6439059\\Web.config",
+              "RelativeDocumentMoniker": "figura20-20_6439059\\Web.config",
+              "ToolTip": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\figura20-20_6439059\\figura20-20_6439059\\Web.config",
+              "RelativeToolTip": "figura20-20_6439059\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-18T05:05:50.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\figura20-20_6439059\\figura20-20_6439059\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "figura20-20_6439059\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\figura20-20_6439059\\figura20-20_6439059\\WebForm1.aspx.cs",
+              "RelativeToolTip": "figura20-20_6439059\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:05:24.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\figura20-20_6439059\\figura20-20_6439059\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "figura20-20_6439059\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\analu\\OneDrive\\Escritorio\\Practica 04\\figura20-20_6439059\\figura20-20_6439059\\WebForm1.aspx",
+              "RelativeToolTip": "figura20-20_6439059\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-18T04:57:42.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
